@@ -1,9 +1,16 @@
+import vercel from '@sveltejs/adapter-vercel';
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	kit: {
-		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte'
-	}
+  kit: {
+    target: '#svelte',
+    adapter: vercel(),
+    vite: {
+      optimizeDeps: {
+        include: ['clipboard-copy']
+      }
+    }
+  }
 };
 
 export default config;
