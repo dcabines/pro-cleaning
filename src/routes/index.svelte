@@ -12,9 +12,7 @@
 					Cleaning with immaculate results excellent communicator with the ability to provide
 					quality customer care.
 				</p>
-			</Column>
 
-			<Column>
 				<p>
 					With Pro cleaning you can depend on us through our service so that you can enjoy your
 					clean home or office without the hassle of cleaning it yourself or having one of your
@@ -22,7 +20,7 @@
 				</p>
 			</Column>
 		</Row>
-    <Row>
+		<Row>
 			<Column>
 				<img src="banner.jpg" alt="banner" />
 			</Column>
