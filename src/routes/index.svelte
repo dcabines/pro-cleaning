@@ -32,4 +32,8 @@
 	img {
 		max-width: 100%;
 	}
+
+	p {
+		margin-bottom: 1rem;
+	}
 </style>
