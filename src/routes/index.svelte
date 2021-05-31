@@ -6,6 +6,14 @@
 	<Grid>
 		<Row>
 			<Column>
+				<h2>
+					<a href="tel:+19175138503">917-513-8503</a>
+				</h2>
+
+				<h2>
+					<a href="tel:+13524419132">352-441-9132</a>
+				</h2>
+
 				<p>
 					With DFW pro cleaning professional staff detailed Cleaning, professional with long history
 					as provider of personal housekeeping and cleaning gratified through the completion of
@@ -35,5 +43,10 @@
 
 	p {
 		margin-bottom: 1rem;
+	}
+
+	h2 a {
+		color: black;
+		text-decoration: none;
 	}
 </style>
